@@ -310,7 +310,7 @@ Per riprodurre la parte SQL:
 1. creare un database vuoto in MariaDB/MySQL;
 2. aprire CREATE_TABLE.SQL in phpMyAdmin o in un client SQL;
 3. eseguire lo script per creare le tabelle;
-4. aprire INSERT DATA 2.ipynb;
+4. aprire INSERT_DATA.ipynb;
 5. modificare la stringa di connessione al database, se necessario;
 6. eseguire il notebook per popolare le tabelle;
 7. aprire ANALYSIS_QUERIES.SQL;
